@@ -1,0 +1,52 @@
+main{
+    background-color: blanchedalmond;
+    height : 950px;
+    width: 1000px;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+header{
+    background-color: aquamarine;
+    overflow: hidden;
+}
+body{
+    background-image: linear-gradient(to right bottom, #0f1aff, #0067ff, #0090ff, #00b0ff, #00ccf6);
+}
+#menu{
+    width: 400px;
+    float: right;
+}
+#logo{
+    width: auto;
+    float: left;
+}
+#slide{
+    background-color: beige;
+    height: 100px;
+}
+#content{
+    background-color: brown;
+    margin-left: 20px;
+    margin-right: auto;
+}
+.subcontent{
+    background-color: aquamarine;
+    float: left;
+    margin: 10px;
+    width: 270px;
+    height: 350px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 6px 1px  #00b0ff;
+    padding: 5px;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    float: left;
+    margin: 10px;
+}
